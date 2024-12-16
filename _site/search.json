@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "siteweb",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#membres-du-groupe",
+    "href": "index.html#membres-du-groupe",
+    "title": "siteweb",
+    "section": "Membres du groupe",
+    "text": "Membres du groupe\n\nNom 1\nNom 2"
+  },
+  {
+    "objectID": "index.html#pages-principales",
+    "href": "index.html#pages-principales",
+    "title": "siteweb",
+    "section": "Pages principales",
+    "text": "Pages principales\n\nStatistiques Descriptives\nAnalyse des Données"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]

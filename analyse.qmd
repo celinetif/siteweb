@@ -1,0 +1,22 @@
+---
+title: "Analyse des Données"
+---
+
+```{r}
+# Charger la base de données
+#base_brevets <- read.csv("base_brevet.csv", header = TRUE)
+
+# Vérifier les premières lignes pour confirmation
+#head(base_brevets)
+```
+
+## Relations entre l'innovation et la demande en compétences
+
+### Graphiques interactifs
+
+```{r}
+library(ggplot2)
+
+# Exemple d’un graphique ggplot
+#qplot(x = base_brevets$n_patents, y = base_brevets$ipc_main_code, data = base_brevets)
+```

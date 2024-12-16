@@ -1,5 +1,5 @@
 ---
-title: "Bienvenue sur notre site d'analyse de données"
+title: "Bienvenue sur notre site d'analyse de données "
 author: "Nom du groupe"
 output: 
   html_document:
